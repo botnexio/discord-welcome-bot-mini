@@ -1,0 +1,14 @@
+{
+  "name": "discord-welcome-bot-mini",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/bot.js",
+    "test": "node --test",
+    "check": "node --check src/bot.js"
+  },
+  "engines": { "node": ">=22.13" },
+  "dependencies": { "discord.js": "^14.16.0", "dotenv": "^16.4.0" }
+}
