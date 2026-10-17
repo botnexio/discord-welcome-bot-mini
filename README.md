@@ -58,6 +58,6 @@ The bot only runs while its Node.js process runs. You can host it on your own PC
 Email [support@aramac.me](mailto:support@aramac.me) or use the contact form: <https://botnexio.com/kontakt>.
 
 ## License & notes
-Released under the MIT License (see LICENSE) by Aramac GmbH, the company behind Botnexio. Discord is a trademark of Discord Inc.; this project is not affiliated with or endorsed by Discord Inc. The bot needs the privileged Server Members Intent; as the operator of your bot, you are responsible for data protection on your server. Supplementary notes under German law: https://botnexio.com/lizenz/discord-welcome-bot-mini
+Released under the MIT License (see LICENSE). Discord is a trademark of Discord Inc.; this project is not affiliated with or endorsed by Discord Inc. The bot needs the privileged Server Members Intent; as the operator of your bot, you are responsible for data protection on your server. Supplementary notes under German law: https://botnexio.com/lizenz/discord-welcome-bot-mini
 
 Third-party components (discord.js, dotenv) keep their own licences; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

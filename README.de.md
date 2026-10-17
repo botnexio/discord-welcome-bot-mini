@@ -48,4 +48,4 @@ Der Bot läuft nur, solange sein Node.js-Prozess läuft. Du kannst ihn auf deine
 E-Mail an [support@aramac.me](mailto:support@aramac.me) oder über das Kontaktformular: <https://botnexio.com/kontakt>.
 
 ## Lizenz & Hinweise
-Veröffentlicht unter der MIT-Lizenz (siehe `LICENSE`) von der Aramac GmbH, dem Unternehmen hinter Botnexio. Discord ist eine Marke der Discord Inc.; dieses Projekt ist nicht mit Discord Inc. verbunden und wird nicht von Discord Inc. unterstützt. Der Bot braucht den privilegierten Server Members Intent; als Betreiber deines Bots bist du für den Datenschutz auf deinem Server verantwortlich. Ergänzende Hinweise nach deutschem Recht: https://botnexio.com/lizenz/discord-welcome-bot-mini
+Veröffentlicht unter der MIT-Lizenz (siehe `LICENSE`). Discord ist eine Marke der Discord Inc.; dieses Projekt ist nicht mit Discord Inc. verbunden und wird nicht von Discord Inc. unterstützt. Der Bot braucht den privilegierten Server Members Intent; als Betreiber deines Bots bist du für den Datenschutz auf deinem Server verantwortlich. Ergänzende Hinweise nach deutschem Recht: https://botnexio.com/lizenz/discord-welcome-bot-mini
